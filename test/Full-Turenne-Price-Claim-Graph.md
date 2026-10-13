@@ -1,6 +1,6 @@
 Claim Graph for Turenne GA and Price BD. Glycogen synthase kinase 3 beta phosphorylates serine 33 of p53 and activates p53’s transcriptional activity. *BMC Cell Biology* 2001; 2:12. http\://www\.biomedcentral.com/1471-2121/2/12
 
-![][image1]
+![image1.png][image1]
 
 Note: Edges denote relationships among premises and conclusions; rectangles (e.g. Fig 1\) signify data sources, circles (e.g. Obs1) observations, ovals (e.g. Concl1) conclusions, and diamonds hypotheses. Implicit information is indicated by a dashed outline (e.g. Bkgnd 1). Linked premises of an argumentation scheme are linked by a dashed arc. For example, Concl2 follows by Method of Difference from linked premises labelled Obs1, Obs2, and Obs4.
 
